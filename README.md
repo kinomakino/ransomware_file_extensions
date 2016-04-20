@@ -1,2 +1,2 @@
 # ransomware_file_extensions
-Popular Ransomware file extensions
+Listado de extensiones empleados por ransomware.
