@@ -71,3 +71,47 @@ _crypt
 .CTBL 
 .CTB2 
 .locky
+ DECRYPT_INSTRUCTIONS.TXT
+ DECRYPT_INSTRUCTIONS.HTML
+ DECRYPT_INSTRUCTION.TXT
+ DECRYPT_INSTRUCTION.HTML
+ HELP_DECRYPT.TXT
+ HELP_DECRYPT.HTML
+ DecryptAllFiles.txt
+ enc_files.txt
+ HowDecrypt.txt
+ How_Decrypt.txt
+ How_Decrypt.html
+ HELP_TO_DECRYPT_YOUR_FILES.txt
+ HELP_RESTORE_FILES.txt
+ HELP_TO_SAVE_FILES.txt
+ restore_files*.txt
+ restore_files.txt
+ RECOVERY_KEY.TXT
+ how to decrypt aes files.lnk
+ HELP_DECRYPT.PNG
+ HELP_DECRYPT.lnk
+ DecryptAllFiles*.txt
+ Decrypt.exe
+ ATTENTION!!!.txt
+ AllFilesAreLocked*.bmp
+ MESSAGE.txt
+ _DECRYPT_INFO_*
+ *.locky
+ *.ezz
+ *.ecc
+ *.exx
+ *.7z.encrypted
+ *.ctbl
+ *.encrypted
+ *.aaa
+ *.xtbl
+ *.abc
+ *.JUST
+ *.EnCiPhErEd
+ *.cryptolocker
+ *.micro
+ *.FUN
+ *.KKK
+ *.GWS
+ *.BTC
