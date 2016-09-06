@@ -7,7 +7,7 @@
 ## El script primero borra los grupos y plantillas, no se comprueba que existen, por lo que la primera vez que se ejecuta puede
 ## dar algún problema. Ejecútalo varias veces y desaparecen los mensajes de error.
 ## De esta manera se puede programar una tarea para que se actualización.
-## Si quieres incorporar extensiones propias, ten en cuenta que con la actualización las perders. Te animo a que me las envies 
+## Si quieres incorporar extensiones propias, ten en cuenta que con la actualización las perderás. Te animo a que me las envíes 
 ## a kinomakino@hotmail.com para añadirlas al repo.
 
 param (
