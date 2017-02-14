@@ -62,6 +62,7 @@
 *.cryptolocker
 *.cryptotorlocker*
 *.CryptoTorLocker2015!
+*.CryptoShield
 *.cryptowall
 *.crypz
 *.CrySiS
@@ -172,6 +173,7 @@
 *.paymts
 *.payrms
 *.pays
+*.paytounlock
 *.pdcr
 *.PEGS1
 *.perl
