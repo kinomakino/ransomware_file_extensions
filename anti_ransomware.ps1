@@ -1,11 +1,11 @@
 ## Autor: Jmolina Kinomakino
 ## blog http://kinomakino.blogspot.com.es/
 ## @kinomakino
-## Con este script podemos definir una seria de extensiones usadas por ransomware y usarlas en un servidor FSRM sobre Windows 
+## Con este script usamos una lista de extensiones conocidas empleadas por ransomware en un servidor FSRM sobre Windows 
 ## para apagar el servidor y enviar un e-mail.
-## Ejecuta el script con el parámetro de la carpeta que quieres monitorizar. por ejemplo : Script.ps1 c:\datos\
-## El script primero borra los grupos y plantillas, no se comprueba que existen, por lo que la primera vez que se ejecuta puede
-## dar algún problema. Ejecútalo varias veces y desaparecen los mensajes de error.
+## Ejecuta el script con el parámetro de la carpeta que quieres monitorizar. por ejemplo: Script.ps1 c:\datos\
+## El script primero borra los grupos y plantillas, no se comprueba que existen, la primera vez que se ejecuta 
+## da dos errores. A la segunda no :-)
 ## De esta manera se puede programar una tarea para que se actualización.
 ## Si quieres incorporar extensiones propias, ten en cuenta que con la actualización las perderás. Te animo a que me las envíes 
 ## a kinomakino@hotmail.com para añadirlas al repo.
