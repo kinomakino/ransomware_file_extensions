@@ -20,8 +20,9 @@
 *.8c7f
 *.a5zfn
 *.aaa
-*.abc
+*.abc*
 *.adk
+*.AES
 *.AES256
 *.AESIR
 *.alcatraz
@@ -129,6 +130,7 @@
 *.hydracrypt*
 *.iloveworld
 *.info
+*.iaufkakfhsaraf
 *.JUST
 *.justbtcwillhelpyou
 *.kb15
@@ -252,6 +254,7 @@
 *.zendr4
 *.zepto
 *.zyklon
+*.zXz
 *.zzz
 *.zzzzz
 *_READ_THIS_FILE_*
@@ -274,6 +277,7 @@
 _crypt
 _DECRYPT_INFO_*
 _ryp
+ASSISTANCE_IN_RECOVERY.txt
 AllFilesAreLocked*.bmp
 ATTENTION!!!.txt
 confirmation.key
