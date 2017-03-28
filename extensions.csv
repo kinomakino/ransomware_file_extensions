@@ -35,6 +35,7 @@
 *.AES256 
 *.AESIR
 *.AFD
+*.AngleWare
 *.aga
 *.alcatraz
 *.amba
@@ -164,8 +165,10 @@
 *.globe
 *.good
 *.gruzin@qq_com 
+*.GSupport*
 *.GWS
 *.HA3
+*.hairullah@inbox.lv
 *.hakunamatata
 *.hannah
 *.hb15
@@ -196,7 +199,6 @@
 *.KEYZ 
 *.killedXXX
 *.kimcilware
-*.kimcilware 
 *.KKK
 *.korrektor
 *.kostya
@@ -358,6 +360,7 @@
 *.zcrypt
 *.zendr4
 *.zepto
+*.zorro
 *.zXz
 *.zyklon
 *.zzz 
@@ -374,6 +377,7 @@
 *cpyt*
 *crypt*
 *decipher*
+*gmail*.crypt
 *help_restore*.*
 *help_your_files*.*
 *how_to_recover*.*
@@ -385,7 +389,9 @@
 *want your files back.*
 _crypt
 _DECRYPT_INFO_*
+_Locky_recover_instructions.txt
 _ryp
+_secret_code.txt
 AllFilesAreLocked*.bmp
 ASSISTANCE_IN_RECOVERY.txt
 ATTENTION!!!.txt
@@ -409,6 +415,10 @@ how to decrypt aes files.lnk
 How_Decrypt.html
 How_Decrypt.txt
 HowDecrypt.txt
+howrecover+*.txt
+howto_recover_file.txt
+INSTRUCCIONES_DESCIFRADO.TXT
+IAMREADYTOPAY.TXT
 last_chance.txt
 message.txt
 MESSAGE.txt
@@ -421,3 +431,5 @@ restore_files.txt
 vault.hta
 vault.key
 vault.txt
+YOUR_FILES.HTML
+YOUR_FILES.url
