@@ -14,6 +14,7 @@
 *.02
 *.0x0
 *.725
+*.1btc
 *.1999
 *.1cbu1
 *.1txt
@@ -138,7 +139,9 @@
 *.dharma
 *.disappeared
 *.diablo6
+*.divine
 *.dll
+*.doubleoffset
 *.domino
 *.doomed
 *.dxxd
@@ -330,6 +333,7 @@
 *.RAD 
 *.RADAMANT
 *.raid10
+.*ransomware
 *.RARE1
 *.rastakhiz
 *.razy
@@ -365,6 +369,7 @@
 *.surprise
 *.szf
 *.t5019
+*.tedcrypt
 *.TheTrumpLockerf
 *.TheTrumpLockerfp
 *.theworldisyours
