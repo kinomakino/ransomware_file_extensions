@@ -36,6 +36,7 @@
 *.adk
 *.adr
 *.AES
+*.aes128ctr
 *.AES256 
 *.aes_ni
 *.aes_ni_gov
@@ -231,6 +232,7 @@
 *.JUST
 *.justbtcwillhelpyou
 *.JLQUF
+*.jnec
 *.karma
 *.kb15
 *.kencf
@@ -282,6 +284,7 @@
 *.merry
 *.micro
 *.MRCR1
+*.MTXLOCK
 *.nalog@qq_com
 *.nemo-hacks.at.sigaint.org
 *.nobad
