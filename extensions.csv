@@ -369,10 +369,12 @@
 *.reyptson
 *.remind
 *.rip
+*.RGNR_ESXI
 *.RMCM1
 *.rmd
 *.rnsmwr
 *.rokku
+*.royal_u
 *.rrk
 *.RSNSlocked 
 *.RSplited
@@ -524,4 +526,9 @@ vault.key
 vault.txt
 YOUR_FILES.HTML
 YOUR_FILES.url
-
+*.mario
+*.emario
+*.eight
+*.lol
+*.encrypto
+*.tgpo
